@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/currencyTracker/static/css/main.e3ec4762.chunk.css",
+    "main.js": "/currencyTracker/static/js/main.46d82da6.chunk.js",
+    "main.js.map": "/currencyTracker/static/js/main.46d82da6.chunk.js.map",
+    "runtime-main.js": "/currencyTracker/static/js/runtime-main.439415ab.js",
+    "runtime-main.js.map": "/currencyTracker/static/js/runtime-main.439415ab.js.map",
+    "static/js/2.87b30f41.chunk.js": "/currencyTracker/static/js/2.87b30f41.chunk.js",
+    "static/js/2.87b30f41.chunk.js.map": "/currencyTracker/static/js/2.87b30f41.chunk.js.map",
+    "index.html": "/currencyTracker/index.html",
+    "static/css/main.e3ec4762.chunk.css.map": "/currencyTracker/static/css/main.e3ec4762.chunk.css.map",
+    "static/js/2.87b30f41.chunk.js.LICENSE.txt": "/currencyTracker/static/js/2.87b30f41.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.439415ab.js",
+    "static/js/2.87b30f41.chunk.js",
+    "static/css/main.e3ec4762.chunk.css",
+    "static/js/main.46d82da6.chunk.js"
+  ]
+}
