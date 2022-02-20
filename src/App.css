@@ -9,22 +9,22 @@
   color: #fff;
 }
 .heading-row{
-  display: inline-flex;
+  display: flex;
   flex-direction: row;
   justify-content: space-evenly;
   height: 50px;
+  
   border-bottom: 1px solid #d7d7d7;
   width: 900px;
-  margin: 55px;
 }
 .heading-row p{
   padding-right: 30px;
 }
 .coin-app {
-  display: flex;
+  display: inline-flex;
   flex-direction: column;
   align-items: center;
-  margin-top: 64px;
+  margin: 55px;
   color: #fff;
 }
 
