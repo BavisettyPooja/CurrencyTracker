@@ -48,6 +48,7 @@ function App() {
         <p>Rate(24h)</p>
         <p>Marketcap</p>
       </div>
+      
       {filteredCoins.map(coin => {
         return (
           <Coin
